@@ -1,0 +1,23 @@
+{
+  "name": "06-js-friday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "task7": "nodemon ./js/07-task.js",
+    "task6": "nodemon ./js/06-task.js",
+    "task5": "nodemon ./js/05-task.js",
+    "task4": "nodemon ./js/04-task.js",
+    "task3": "nodemon ./js/03-task.js",
+    "task": "nodemon ./js/01-task.js",
+    "task2": "nodemon ./js/02-task.js",
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Domas (https://github.com/DomasTol)",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
